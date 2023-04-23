@@ -1,15 +1,19 @@
 ### Hi there 👋
 
+## My name is shahyar
 
-**Just-a-cloner/Just-a-cloner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+mech student, intrested in computer, linux and open source
+# learned
+- python
 
-Here are some ideas to get you started:
-H1 salam
-### 
-### 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# learning
+- go lang
+
+# courses i have to watch and learn
+[x] intoduction to python
+[] web scraping with python
+[] network +
+[] linux lpic
+[] CEH
+
+
