@@ -3,5 +3,5 @@
 i am intrested in linux and open source 💻
 i have learned python 
 and i'm learning
-- go lang ![go lang logo](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fw7.pngwing.com%2Fpngs%2F566%2F160%2Fpng-transparent-golang-hd-logo-thumbnail.png&f=1&nofb=1&ipt=acf0bd69ff84aac66e11743d78638427ad674531052ca8244a83b31805bd8090&ipo=images)
+- go lang <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.nicepng.com%2Fpng%2Fdetail%2F264-2641184_111-kb-png-golang-logo.png&f=1&nofb=1&ipt=314a4621ad99410e3d59fb28b6e5aee64ea2a747753d1b4bd884fccf2383d0b8&ipo=images" width="100" />
 #### better call me with *shahyarjk@gmail.com*
